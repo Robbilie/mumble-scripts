@@ -1,0 +1,2 @@
+# mumble-scripts
+This is a modified version of the LDAP plugin for mumble. It is specifically targeted at LDAP servers that supply additional information about EVE Online characters. This includes the URL to the character portrait which will be rendered in the mumble client.
